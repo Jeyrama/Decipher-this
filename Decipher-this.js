@@ -12,3 +12,6 @@ Examples:
   decipherThis('72olle 103doo 100ya'); // 'Hello good day'
   decipherThis('82yade 115te 103o'); // 'Ready set go'
 */
+
+
+// Solution
