@@ -24,3 +24,5 @@ function decipherThis(str) {
     )
     .join(' ')
 }
+
+// or
